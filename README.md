@@ -1,2 +1,2 @@
-# talkclock-android
+# TalkClock-Android
 TalkClock Android Version
